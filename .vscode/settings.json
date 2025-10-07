@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./neurons_with_"
+    ]
+}
